@@ -209,7 +209,7 @@ section {
 }
 
 .bg-1 {
-	background: url('http://www.bootply.com/assets/example/bg_suburb.jpg') no-repeat center center fixed; 
+	background: url('../img/big-resolution-wallpapers.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -217,7 +217,7 @@ section {
 }
 
 .bg-2 {
-	background: url('http://www.bootply.com/assets/example/bg_suburb.jpg') no-repeat center center fixed; 
+	background: url('../img/High%20Resolution%20Backgrounds0.jpeg') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -225,7 +225,7 @@ section {
 }
 
 .bg-3 {
-	background: url('../img/download%20(3).jpg') no-repeat center center fixed;
+	background: url('../img/High%20Resolution%20Backgrounds0.jpeg') no-repeat center center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
